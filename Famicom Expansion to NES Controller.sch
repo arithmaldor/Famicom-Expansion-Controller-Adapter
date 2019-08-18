@@ -97,4 +97,79 @@ NoConn ~ 4950 2950
 NoConn ~ 4950 3050
 NoConn ~ 4950 3550
 NoConn ~ 4950 3950
+$Comp
+L Connector:HDMI_A J5
+U 1 1 5D58C33C
+P 7900 4550
+F 0 "J5" H 8330 4596 50  0000 L CNN
+F 1 "HDMI_A" H 8330 4505 50  0000 L CNN
+F 2 "Tinkerplunk:HDMI_VERT_47659-1000" H 7925 4550 50  0001 C CNN
+F 3 "https://en.wikipedia.org/wiki/HDMI" H 7925 4550 50  0001 C CNN
+	1    7900 4550
+	1    0    0    -1  
+$EndComp
+Text GLabel 7500 4850 0    50   Input ~ 0
+GND
+Text GLabel 7500 3750 0    50   Input ~ 0
+CLOCK(2)
+Text GLabel 7700 5650 3    50   Input ~ 0
+LATCH
+Text GLabel 7500 4950 0    50   Input ~ 0
++5V
+Text GLabel 7800 5650 3    50   Input ~ 0
+D3
+Text GLabel 7500 4050 0    50   Input ~ 0
+D4
+$Comp
+L Connector:HDMI_A J4
+U 1 1 5D59042D
+P 7900 2000
+F 0 "J4" H 8330 2046 50  0000 L CNN
+F 1 "HDMI_A" H 8330 1955 50  0000 L CNN
+F 2 "Tinkerplunk:HDMI_VERT_47659-1000" H 7925 2000 50  0001 C CNN
+F 3 "https://en.wikipedia.org/wiki/HDMI" H 7925 2000 50  0001 C CNN
+	1    7900 2000
+	1    0    0    -1  
+$EndComp
+Text GLabel 7500 1200 0    50   Input ~ 0
+CLOCK(1)
+Text GLabel 7500 3850 0    50   Input ~ 0
+DATA(2)
+Text GLabel 7500 1300 0    50   Input ~ 0
+DATA(1)
+Text GLabel 7500 2400 0    50   Input ~ 0
++5V
+Text GLabel 7500 2300 0    50   Input ~ 0
+GND
+Text GLabel 8200 3100 3    50   Input ~ 0
+GND
+Text GLabel 8200 5650 3    50   Input ~ 0
+GND
+Text GLabel 7700 3100 3    50   Input ~ 0
+LATCH
+NoConn ~ 7900 900 
+NoConn ~ 7500 1400
+NoConn ~ 7500 1500
+NoConn ~ 7500 1600
+NoConn ~ 7500 1700
+NoConn ~ 7500 1800
+NoConn ~ 7500 1900
+NoConn ~ 7500 2100
+NoConn ~ 7500 2600
+NoConn ~ 7500 2700
+NoConn ~ 7800 3100
+NoConn ~ 7900 3100
+NoConn ~ 8000 3100
+NoConn ~ 8100 3100
+NoConn ~ 7500 3950
+NoConn ~ 7500 4150
+NoConn ~ 7500 4250
+NoConn ~ 7500 4350
+NoConn ~ 7500 4450
+NoConn ~ 7500 4650
+NoConn ~ 7500 5150
+NoConn ~ 7500 5250
+NoConn ~ 7900 5650
+NoConn ~ 8000 5650
+NoConn ~ 8100 5650
 $EndSCHEMATC
