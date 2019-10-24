@@ -102,7 +102,7 @@
   )
 
   (module MountingHole:MountingHole_3.2mm_M3 (layer F.Cu) (tedit 5D388A28) (tstamp 5D38DB17)
-    (at 160.0277 54.4275)
+    (at 166.16655 54.27)
     (descr "Mounting Hole 3.2mm, no annular, M3")
     (tags "mounting hole 3.2mm no annular m3")
     (attr virtual)
@@ -121,7 +121,7 @@
   )
 
   (module MountingHole:MountingHole_3.2mm_M3 (layer F.Cu) (tedit 5D388A28) (tstamp 5D38DB09)
-    (at 149.9723 54.4275)
+    (at 143.83345 54.27)
     (descr "Mounting Hole 3.2mm, no annular, M3")
     (tags "mounting hole 3.2mm no annular m3")
     (attr virtual)
@@ -140,7 +140,7 @@
   )
 
   (module MountingHole:MountingHole_3.2mm_M3 (layer F.Cu) (tedit 5D388A28) (tstamp 5D38DAFB)
-    (at 149.9723 70.57)
+    (at 143.83345 70.73)
     (descr "Mounting Hole 3.2mm, no annular, M3")
     (tags "mounting hole 3.2mm no annular m3")
     (attr virtual)
@@ -159,7 +159,7 @@
   )
 
   (module MountingHole:MountingHole_3.2mm_M3 (layer F.Cu) (tedit 5D388A28) (tstamp 5D38DA73)
-    (at 160.0277 70.57)
+    (at 166.16655 70.73)
     (descr "Mounting Hole 3.2mm, no annular, M3")
     (tags "mounting hole 3.2mm no annular m3")
     (attr virtual)
